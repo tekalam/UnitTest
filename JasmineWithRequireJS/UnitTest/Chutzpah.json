@@ -1,0 +1,9 @@
+﻿{
+  "Framework": "jasmine",
+  "TestHarnessReferenceMode": "AMD",
+  "TestHarnessLocationMode": "Custom",
+  "CustomTestHarnessPath": "tests\\spec\\test-runner.html",
+  "Tests": [
+     {"Includes": ["*.html"]}
+  ]
+}

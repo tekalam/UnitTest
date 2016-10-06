@@ -1,0 +1,25 @@
+.mainContainer {
+    background:#eee;
+    border-radius:20px;
+    padding:20px;
+    overflow: auto;
+    margin: 10px 0;
+}
+
+#description {
+    background: #222;
+    border-radius: 10px 10px 10px 10px;
+    color: #eee;
+    margin: 20px 0;
+    padding: 20px;
+    width: 900px;
+}
+
+.container {
+    position: relative;
+    margin: 0 auto;
+}
+
+em {
+    color: gray;
+}
